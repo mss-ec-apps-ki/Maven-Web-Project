@@ -80,17 +80,17 @@
   </dependencies>
 
 	<distributionManagement>
-	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8082/mithuntechno/repository/wallmart-releases/</url>
-	    </repository>
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8082/mithuntechno/repository/wallmart-snapshot/</url>
-	    </snapshotRepository>
-	</distributionManagement>
+     <repository>
+       <id>nexus</id>
+       <name>DESKTOP-LBTFORN-releases</name>
+       <url>http://localhost:8081/repository/sep3-release/</url>
+     </repository>
+     <snapshotRepository>
+       <id>nexus</id>
+       <name>DESKTOP-LBTFORN-snapshots </name>
+       <url>http://localhost:8081/repository/sep3-snapshot/</url>
+     </snapshotRepository>
+   </distributionManagement>
 	
 	
   <build>
