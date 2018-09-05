@@ -11,7 +11,7 @@ node {
 
          // sh 'mvn install'
 	       
-	       sh 'mvn clean'
+	       bat 'mvn clean'
        }
 	   
       stage('Sonar') {
