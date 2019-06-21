@@ -14,9 +14,5 @@ node {
 	       bat 'mvn clean'
        }
 	   
-      stage('Sonar') {
-                    //add stage sonar
-                   // sh 'mvn sonar:sonar'
-                }
-       
+      
 }
