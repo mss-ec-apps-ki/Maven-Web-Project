@@ -88,8 +88,8 @@
      </repository>
      <snapshotRepository>
        <id>nexus</id>
-       <name>DESKTOP-LBTFORN-snapshots </name>
-       <url>http://localhost:8089/artifactory/mven</url>
+       <name>facebook-snapshots </name>
+       <url>http://ec2-3-110-103-46.ap-south-1.compute.amazonaws.com:9980/repository/facebook-snapshot/</url>
      </snapshotRepository>
    </distributionManagement>
 
