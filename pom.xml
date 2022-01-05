@@ -82,9 +82,9 @@
  
  <distributionManagement>
      <repository>
-       <id>jfrog</id>
-       <name>DESKTOP-LBTFORN-releases</name>
-       <url>http://localhost:8089/artifactory/mven</url>
+       <id>nexus</id>
+       <name>facebook-releases</name>
+       <url>http://ec2-3-110-103-46.ap-south-1.compute.amazonaws.com:9980/repository/facebook-release/</url>
      </repository>
      <snapshotRepository>
        <id>nexus</id>
