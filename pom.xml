@@ -84,12 +84,12 @@
      <repository>
        <id>nexus</id>
        <name>facebook-releases</name>
-       <url>http://ec2-3-110-103-46.ap-south-1.compute.amazonaws.com:9980/repository/facebook-release/</url>
+	     <url>http://52.66.253.80:9980/repository/facebook-release/</url>
      </repository>
      <snapshotRepository>
        <id>nexus</id>
        <name>facebook-snapshots </name>
-       <url>http://ec2-3-110-103-46.ap-south-1.compute.amazonaws.com:9980/repository/facebook-snapshot/</url>
+       <url>http://52.66.253.80:9980/repository/facebook-snapshot/</url>
      </snapshotRepository>
    </distributionManagement>
 
