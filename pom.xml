@@ -83,12 +83,12 @@
      <repository>
        <id>nexus</id>
        <name>facebook-releases</name>
-	     <url>http://ec2-65-0-178-215.ap-south-1.compute.amazonaws.com:8081/repository/facebook-dev/</url>
+	     <url>http://ec2-65-0-87-166.ap-south-1.compute.amazonaws.com:8081/repository/facebookdev/</url>
      </repository>
      <snapshotRepository>
        <id>nexus</id>
        <name>facebook-snapshots </name>
-       <url>http://ec2-65-0-178-215.ap-south-1.compute.amazonaws.com:8081/repository/facebook-snap/</url>
+       <url>http://ec2-65-0-87-166.ap-south-1.compute.amazonaws.com:8081/repository/facebook-snap/</url>
      </snapshotRepository>
    </distributionManagement>
 
